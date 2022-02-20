@@ -1,13 +1,14 @@
-  [
-    {
-    "Name": "Hassene Hamed",
+[
+ {
+   "Name": "Hassene Hamed",
     "country": "Tunisia",
     "Pill": "Doliprane 1000",
-  },
-    {
+ }
+ ,
+{
     "Name": "Ahmed Kolsi",
     "country": "Tunisia",
     "Pill": "Doliprane 1000",
-  },
+ }
 ]
 
